@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/robogang/static/css/main.38228c14.chunk.css",
-    "main.js": "/robogang/static/js/main.14a3d6f6.chunk.js",
-    "main.js.map": "/robogang/static/js/main.14a3d6f6.chunk.js.map",
+    "main.js": "/robogang/static/js/main.addc77bb.chunk.js",
+    "main.js.map": "/robogang/static/js/main.addc77bb.chunk.js.map",
     "runtime-main.js": "/robogang/static/js/runtime-main.aedeede5.js",
     "runtime-main.js.map": "/robogang/static/js/runtime-main.aedeede5.js.map",
     "static/css/2.eb45ad44.chunk.css": "/robogang/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.ed630817.chunk.js": "/robogang/static/js/2.ed630817.chunk.js",
-    "static/js/2.ed630817.chunk.js.map": "/robogang/static/js/2.ed630817.chunk.js.map",
+    "static/js/2.2610e3d0.chunk.js": "/robogang/static/js/2.2610e3d0.chunk.js",
+    "static/js/2.2610e3d0.chunk.js.map": "/robogang/static/js/2.2610e3d0.chunk.js.map",
     "index.html": "/robogang/index.html",
-    "precache-manifest.7520bb51da3ec25d8d0451ac9d7d720c.js": "/robogang/precache-manifest.7520bb51da3ec25d8d0451ac9d7d720c.js",
+    "precache-manifest.98d30d6c8f1ab36ba91703b28fd12d36.js": "/robogang/precache-manifest.98d30d6c8f1ab36ba91703b28fd12d36.js",
     "service-worker.js": "/robogang/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/robogang/static/css/2.eb45ad44.chunk.css.map",
     "static/css/main.38228c14.chunk.css.map": "/robogang/static/css/main.38228c14.chunk.css.map",
-    "static/js/2.ed630817.chunk.js.LICENSE.txt": "/robogang/static/js/2.ed630817.chunk.js.LICENSE.txt"
+    "static/js/2.2610e3d0.chunk.js.LICENSE.txt": "/robogang/static/js/2.2610e3d0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.aedeede5.js",
     "static/css/2.eb45ad44.chunk.css",
-    "static/js/2.ed630817.chunk.js",
+    "static/js/2.2610e3d0.chunk.js",
     "static/css/main.38228c14.chunk.css",
-    "static/js/main.14a3d6f6.chunk.js"
+    "static/js/main.addc77bb.chunk.js"
   ]
 }

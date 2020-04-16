@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/robogang/precache-manifest.7520bb51da3ec25d8d0451ac9d7d720c.js"
+  "/robogang/precache-manifest.98d30d6c8f1ab36ba91703b28fd12d36.js"
 );
 
 self.addEventListener('message', (event) => {
